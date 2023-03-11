@@ -1,0 +1,54 @@
+.outlinediv {
+    width: 100%;
+    height: 100vh;
+    background-color: #f4f1eb;
+    margin: 60px 0px;
+    border-radius: 20px;
+    padding: 60px;
+  }
+  
+  .logindiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fieldsdiv {
+    width: 30rem;
+  }
+  
+  .card {
+    width: 40rem;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .inputtag {
+    height: 40px;
+    border: 1px solid #a4a5a8;
+    outline: none;
+    border-radius: 10px;
+    width: 15rem;
+    font-size: 12px;
+  }
+  
+  .btn-login {
+    background: #033631;
+    color: #f3f3f3;
+    width: 15rem;
+    outline: none;
+    font-size: 14px;
+  }
+  
+  .btn-signup{
+      background: #ee5b46;
+      color: #f3f3f3;
+      width: 15rem;
+      outline: none;
+      font-size: 14px;
+  }
+  
+  .gotologin {
+    text-decoration: underline;
+  }

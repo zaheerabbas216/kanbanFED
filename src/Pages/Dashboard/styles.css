@@ -1,0 +1,11 @@
+.headerdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f4f1eb;
+  padding: 10px;
+}
+
+.parentdiv {
+  background-color: #f4f1eb;
+}
